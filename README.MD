@@ -43,6 +43,10 @@ python3 supercell_jwt.py
 }
 ```
 
+## 🖼️ Example Output
+
+![Example JWT Output](https://github.com/DudeGeorgeTG/Supercell-Web/raw/main/example.jpg)
+
 ## ⚠️ Important Notes
 
 🔴 This is example code only!  
